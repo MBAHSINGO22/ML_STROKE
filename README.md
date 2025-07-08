@@ -60,16 +60,6 @@ pip install -r requirements.txt  # jika tersedia
 
 ---
 
-## ▶️ Menjalankan
-
-Buka file notebook dan jalankan sel-sel langkah demi langkah:
-
-```bash
-jupyter notebook TugasStroke_235314099.ipynb
-```
-
----
-
 ## 📊 Contoh Output
 
 - Model: RandomForestClassifier
